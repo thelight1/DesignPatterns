@@ -1,8 +1,5 @@
 package com.thelight1.chainofresponsibility.uml;
 
-/**
- * Created by zhanghan18 on 2018/12/15.
- */
 public class ConcreteHandler2 extends Handler {
 
     @Override
