@@ -1,6 +1,6 @@
 package com.thelight1.templatemethod.uml;
 
-public class Client {
+public class Main {
 
     public static void main(String[] args) {
         AbstractClass c;

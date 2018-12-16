@@ -1,6 +1,6 @@
 package com.thelight1.chainofresponsibility.uml;
 
-public class Client {
+public class Main {
 
     public static void main(String[] args) {
         Handler handler1 = new ConcreteHandler1();
@@ -16,3 +16,10 @@ public class Client {
         }
     }
 }
+/**
+ * 输出如下：
+ [ConcreteHandler1]处理了请求[1]
+ [ConcreteHandler1]处理了请求[2]
+ [ConcreteHandler2]处理了请求[12]
+ [ConcreteHandler3]处理了请求[22]
+ */

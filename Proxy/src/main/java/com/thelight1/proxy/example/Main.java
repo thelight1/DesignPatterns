@@ -1,6 +1,6 @@
 package com.thelight1.proxy.example;
 
-public class Client {
+public class Main {
 
     public static void main(String[] args) {
         SchoolGirl girl = new SchoolGirl("小静");

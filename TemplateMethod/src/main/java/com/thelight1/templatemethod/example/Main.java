@@ -1,6 +1,6 @@
 package com.thelight1.templatemethod.example;
 
-public class Client {
+public class Main {
 
     public static void main(String[] args) {
         TestPaper testPaperA = new TestPaperA();
