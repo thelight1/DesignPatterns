@@ -12,6 +12,7 @@
     <module>ProxyPattern</module>
     <module>TemplateMethod</module>
     <module>ChainofResponsibility</module>
+      <module>Adapter</module>
   </modules>
 
   <name>DesignPatterns</name>
