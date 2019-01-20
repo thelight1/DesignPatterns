@@ -9,10 +9,11 @@
   <packaging>pom</packaging>
   <version>1.0-SNAPSHOT</version>
   <modules>
-    <module>ProxyPattern</module>
+    <module>Proxy</module>
     <module>TemplateMethod</module>
     <module>ChainofResponsibility</module>
       <module>Adapter</module>
+    <module>SimpleFactory</module>
   </modules>
 
   <name>DesignPatterns</name>
