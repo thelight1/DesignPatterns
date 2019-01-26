@@ -15,6 +15,7 @@
       <module>Adapter</module>
     <module>SimpleFactory</module>
     <module>FactoryMethod</module>
+      <module>Observer</module>
   </modules>
 
   <name>DesignPatterns</name>
